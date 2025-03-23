@@ -8,7 +8,7 @@ export default async function Home() {
 
   return (
     <main className="main">
-      <div>
+  <div>
         <h2>Hello World</h2>
       </div>
       <br/>
